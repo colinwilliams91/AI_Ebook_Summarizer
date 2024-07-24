@@ -1,6 +1,6 @@
 ﻿namespace Invoke_Auth_Rest_Write;
 
-partial class ARRL
+partial class AIES
 {
     /// <summary>
     ///  Required designer variable.
@@ -478,7 +478,7 @@ partial class ARRL
         fileDialogWrite.RestoreDirectory = true;
         fileDialogWrite.Title = "fileDialogWrite";
         // 
-        // ARRL
+        // AIES
         // 
         AutoScaleDimensions = new SizeF(7F, 16F);
         AutoScaleMode = AutoScaleMode.Font;
@@ -487,9 +487,9 @@ partial class ARRL
         Controls.Add(tableLayoutPanel1);
         Font = new Font("JetBrains Mono", 8.999999F, FontStyle.Regular, GraphicsUnit.Point, 0);
         ForeColor = SystemColors.ActiveCaption;
-        Name = "ARRL";
+        Name = "AIES";
         Opacity = 0.8D;
-        Text = "ARRL";
+        Text = "AIES";
         tableLayoutPanel1.ResumeLayout(false);
         tableLayoutPanel1.PerformLayout();
         tableLayoutPanel10.ResumeLayout(false);

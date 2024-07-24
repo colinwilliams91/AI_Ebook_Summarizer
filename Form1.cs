@@ -1,8 +1,8 @@
 namespace Invoke_Auth_Rest_Write;
 
-public partial class ARRL : Form
+public partial class AIES : Form
 {
-    public ARRL()
+    public AIES()
     {
         InitializeComponent();
     }

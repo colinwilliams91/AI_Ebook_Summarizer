@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Invoke_Auth_Rest_Write", "Invoke_Auth_Rest_Write.csproj", "{6FA0888A-86DE-4521-93B8-6985EEA4D5F8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AI_Ebook_Summarizer", "AI_Ebook_Summarizer.csproj", "{6FA0888A-86DE-4521-93B8-6985EEA4D5F8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
